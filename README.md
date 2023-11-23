@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaeMoney
 - 👀 I’m interested in Data science and Data engineering tasks and i am a decent python developer.
-- 🌱 I’m currently learning Azure Cloud implementations(Az900)
+- 🌱 I’m currently learning EVERYTHING
 - 💞️ I’m looking to grow and learn
 - 📫 How to reach me email: kaylinmorgan69@gmail.com
 
